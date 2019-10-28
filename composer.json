@@ -13,9 +13,10 @@
         "psr-4": { "Limenius\\LiformBundle\\": "" }
     },
     "require": {
-        "limenius/liform": "@dev"
+        "limenius/liform": "dev-master"
     },
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": [
         {
 	        "url" : "https://github.com/domhaas/Liform.git",
